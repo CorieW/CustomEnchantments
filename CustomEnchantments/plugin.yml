@@ -1,0 +1,5 @@
+name: CustomEnchantments
+version: 1.0
+author: Core
+main: me.core.CustomEnchantments.Main
+description: Testing specific features
