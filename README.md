@@ -1,2 +1,3 @@
 # CustomEnchantments
-A plugin which adds custom enchantments.
+This is a Minecraft plugin which adds custom enchantments to a server.
+
